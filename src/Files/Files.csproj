@@ -1031,6 +1031,7 @@
     <Content Include="Assets\tile-0-300x300.png" />
     <Content Include="Resources\AppCenterKey.txt" />
     <Content Include="Resources\BingMapsKey.txt" />
+    <PRIResource Include="Strings\th\Resources.resw" />
     <PRIResource Include="Strings\af\Resources.resw" />
     <PRIResource Include="Strings\hr-HR\Resources.resw" />
     <PRIResource Include="Strings\vi\Resources.resw" />
@@ -1042,6 +1043,7 @@
     <PRIResource Include="Strings\es-419\Resources.resw" />
     <PRIResource Include="Strings\pt-PT\Resources.resw" />
     <XliffResource Include="MultilingualResources\Files.af.xlf" />
+    <XliffResource Include="MultilingualResources\Files.ar.xlf" />
     <XliffResource Include="MultilingualResources\Files.ca.xlf" />
     <XliffResource Include="MultilingualResources\Files.el.xlf" />
     <XliffResource Include="MultilingualResources\Files.en-GB.xlf" />
@@ -1575,7 +1577,6 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
-    <XliffResource Include="MultilingualResources\Files.ar.xlf" />
     <XliffResource Include="MultilingualResources\Files.cs-CZ.xlf" />
     <XliffResource Include="MultilingualResources\Files.da-DK.xlf" />
     <XliffResource Include="MultilingualResources\Files.da.xlf" />
@@ -1596,6 +1597,7 @@
     <XliffResource Include="MultilingualResources\Files.ru-RU.xlf" />
     <XliffResource Include="MultilingualResources\Files.sv-SE.xlf" />
     <XliffResource Include="MultilingualResources\Files.ta.xlf" />
+    <XliffResource Include="MultilingualResources\Files.th.xlf" />
     <XliffResource Include="MultilingualResources\Files.tr-TR.xlf" />
     <XliffResource Include="MultilingualResources\Files.uk-UA.xlf" />
     <XliffResource Include="MultilingualResources\Files.vi.xlf" />
